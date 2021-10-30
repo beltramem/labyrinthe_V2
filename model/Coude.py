@@ -1,4 +1,8 @@
 #!/usr/bin/python3
 
-class Coude:
+from model.Case import Case
+from model.Croisement import Croisement
+
+
+class Coude(Case):
     pass

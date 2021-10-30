@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 
-class Croisement:
+class Croisement(case):
         pass

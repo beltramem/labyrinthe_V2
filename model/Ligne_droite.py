@@ -1,4 +1,6 @@
 #!/usr/bin/python3
 
-class Ligne_droite:
+from model.Case import Case
+
+class Ligne_droite(Case):
     pass
