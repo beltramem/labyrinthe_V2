@@ -1,4 +1,8 @@
 #!/usr/bin/python3
 
-class Croisement(case):
-        pass
+from model.Case import Case
+
+class Croisement(Case):
+    pass
+
+    
